@@ -41,7 +41,7 @@
 
 ## ⚙️ 設定說明
 
-1. **下載檔案**: 下載 `ocr-demo.html` 檔案
+1. **下載檔案**: 下載 `index.html` 檔案
 2. **開啟檔案**: 使用瀏覽器直接開啟 HTML 檔案
 3. **配置 API**: 如需使用自己的 OCR 服務，請修改 JavaScript 中的 `webhookUrl`
 
