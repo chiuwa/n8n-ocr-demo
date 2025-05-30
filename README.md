@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/ecc9d14d-e84e-4449-be8f-a92a637885d7)
 ![image](https://github.com/user-attachments/assets/9959939b-91d6-4806-bb7b-aa1b47d3dae3)
 
+Demo : https://ocr-demo.pages.dev/
 ## ✨ 功能特點
 
 - 🖼️ **多格式支援**: 支援 JPG、PNG、GIF 圖片格式
